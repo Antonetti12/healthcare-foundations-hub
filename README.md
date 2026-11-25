@@ -20,4 +20,4 @@ The site is public but is not meant to be easy to find: every page has a `noinde
 
 Edit `js/config.js` and set `ownerName` (and optionally `title`).
 
-Chapter review guides are added under Review Guides as they are finished (Chapters 1–7, 11–12, and 26 are up). Downloads will appear in the Downloads section.
+Chapter review guides are added under Review Guides as they are finished (Chapters 1–7, 11–12, 25–26, 28, 32–33, and 36 are up). Downloads will appear in the Downloads section.
